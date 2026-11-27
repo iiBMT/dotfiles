@@ -13,17 +13,6 @@ sudo pacman -S --needed git zsh alacritty stow fzf zoxide ttf-jetbrains-mono-ner
 ```
 ---
 
-## Repository Structure
-```text
-~/dotfiles
-├── .config/
-│   └── alacritty/
-│       └── alacritty.toml  # Terminal aesthetics, fonts, and colors
-├── .zshrc                  # Zsh plugins (Zinit), aliases, and shell integrations
-└── README.md               # Setup documentation
-```
----
-
 ## Installation
 
 ### 1. Clone the Repository
