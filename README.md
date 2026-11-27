@@ -29,7 +29,7 @@ sudo pacman -S --needed git zsh alacritty stow fzf zoxide ttf-jetbrains-mono-ner
 ### 1. Clone the Repository
 Clone your dotfiles into your home directory:
 ```
-git clone git@github.com:5g3a/dotfiles.git ~/dotfiles
+git clone git@github.com:iiBMT/dotfiles.git ~/dotfiles
 cd ~/dotfiles
 ```
 ### 2. Symlink Configurations using GNU Stow
